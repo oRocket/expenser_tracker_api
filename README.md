@@ -112,7 +112,7 @@ Follow these steps to set up the project locally:
 
 **Edit an Expense**
   - **Endpoint:** PUT  /api/expenses/:id
-  - *Headers:** Authorization: Bearer <token>
+  - **Headers:** Authorization: Bearer <token>
   - **Payload:**
     ```
     {
